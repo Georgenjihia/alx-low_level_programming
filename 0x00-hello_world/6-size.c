@@ -1,4 +1,8 @@
 #include <stdio.h>
+
+/*
+ Size is not grandeur, and territory does not make a nation
+ */
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
