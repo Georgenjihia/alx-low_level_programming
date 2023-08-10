@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/*
- Size is not grandeur, and territory does not make a nation
+/**
+ * main - Prints the size of various types based on
+ *        my code is below
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
